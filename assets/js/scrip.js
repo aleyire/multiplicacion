@@ -31,26 +31,3 @@ const funcionMult = () => {
 }
 // Se llama a la función
 funcionMult();
-
-
-
-
-
-
-
-
-
-/* let n1 = prompt("Ingrese un número")
-for(let i = 1; i <= 20; i++) {
-   n1! = (n1*(n1-1)!)
-}
-document.write()*/
-
-
-/* let n1 =prompt("Ingrese un numero")
-const mult = () => {
-    n1=parseInt(n1)
-    if(i = 1, i <= 20, i++) {
-    factorial
-}
-}*/
